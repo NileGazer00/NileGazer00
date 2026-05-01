@@ -65,7 +65,7 @@
 |--------|-------------------|
 | 📧 **Email** | jusspound@gmail.com |
 | 💬 **WhatsApp** | +4915214108652 |
-| 📅 **Schedule** | [Book a Call](https://calendly.com/nilegazer00/30min) |
+| 📅 **Schedule** | [Book a Call](https://calendly.com/ousmanstore00/30min) |
 | 💖 **Sponsor** | [GitHub Sponsors](https://github.com/sponsors/NileGazer00) |
 
 ---
