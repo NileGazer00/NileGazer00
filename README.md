@@ -1,52 +1,90 @@
-# NileGazer00 - Full Stack Engineer
+# NileGazer00 · Full Stack Engineer
 
-I build production-ready systems that ship fast and scale.
+[![GitHub followers](https://img.shields.io/github/followers/NileGazer00?label=Followers&style=flat-square)](https://github.com/NileGazer00)
+[![GitHub stars](https://img.shields.io/github/stars/NileGazer00?label=Stars&style=flat-square)](https://github.com/NileGazer00)
 
 ---
 
-## Open for Freelance Work
+## Professional Summary
+
+Full stack engineer specializing in production-grade web applications, API development, and process automation. Available for freelance and contract work.
+
+**Focus areas:** Startup MVPs, legacy system modernization, scalable API architecture.
+
+---
+
+## Availability
 
 | | |
 |---|---|
+| Status | **Accepting new clients** |
 | Rate | $100-150/hour |
-| Best for | Startups, web apps, APIs, automation |
-| Turnaround | 3-14 days |
+| Engagement | Hourly, fixed-price, or retainer |
+| Turnaround | 3-14 days typical |
+| Timezone | UTC+1 (Central European) |
 
 ---
 
-## Services & Pricing
+## Technical Capabilities
 
-| Service | Price | Delivery |
-|---------|-------|----------|
-| Code Review & Audit | $300 | 2-3 days |
-| Bug Fix / Feature Add | $500 | 2-5 days |
-| Full Web Application | $3,000 | 2-4 weeks |
-| Automation Script | $400 | 2-5 days |
-| API Development | $1,500 | 1-2 weeks |
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, JavaScript, TypeScript, HTML/CSS |
+| Backend | Node.js, Python, REST APIs, FastAPI |
+| Database | PostgreSQL, MySQL, SQLite |
+| Tools | Git, GitHub Actions, Docker |
+| Platforms | Vercel, Netlify, Heroku, AWS (basic) |
 
 ---
 
-## How to Hire Me
+## Service Offerings
 
-| Method | Contact |
+| Service | Starting Price | Typical Delivery |
+|---------|---------------|------------------|
+| Code audit and optimization | $300 | 2-3 days |
+| Bug investigation and fix | $500 | 2-5 days |
+| Custom automation script | $400 | 2-5 days |
+| API design and implementation | $1,500 | 1-2 weeks |
+| Full web application | $3,000 | 2-4 weeks |
+
+---
+
+## Engagement Process
+
+| Step | Description |
+|------|-------------|
+| 1. Discovery | 30-minute call to understand requirements |
+| 2. Quote | Fixed price or hourly estimate provided |
+| 3. Development | Weekly updates and milestone reviews |
+| 4. Delivery | Code, documentation, and deployment support |
+
+---
+
+## Contact Information
+
+| Method | Details |
 |--------|---------|
-| Email | justspound@gmail.com |
+| Email | jusspound@gmail.com |
 | WhatsApp | +4915214108652 |
-| Book a Call | https://calendly.com/nilegazer00/30min |
-| Sponsor | https://github.com/sponsors/NileGazer00 |
+| Schedule | [Book a 30-minute call](https://calendly.com/nilegazer00/30min) |
+| Sponsorship | [GitHub Sponsors](https://github.com/sponsors/NileGazer00) |
 
 ---
 
-## My GitHub Activity
+## Development Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NileGazer00&show_icons=true&theme=dark)
-
----
-
-## Tech Stack
-
-Python • JavaScript • React • Node.js • Git • REST APIs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NileGazer00&show_icons=true&theme=default&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NileGazer00&theme=default)
 
 ---
 
-### Need something built? Contact me directly via email or WhatsApp.
+## Code Quality Commitments
+
+- Documented and tested deliverables
+- Git best practices with clear commit history  
+- Post-delivery support (2 weeks included)
+- Source code fully owned by client
+
+---
+
+*Inquiries responded to within 24 hours via email. WhatsApp for urgent matters only.*
