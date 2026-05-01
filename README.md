@@ -1,91 +1,73 @@
+﻿# NileGazer00 · Full Stack Engineer
 
-<div align="center">
+*Available for freelance work · $100-150/hour · 3-14 day turnaround*
 
-# ✦ NileGazer00 ✦
-## Full Stack Engineer
-
-[![GitHub followers](https://img.shields.io/github/followers/NileGazer00?style=for-the-badge&logo=github&label=Followers&color=0a0a0a)](https://github.com/NileGazer00)
-[![GitHub stars](https://img.shields.io/github/stars/NileGazer00?style=for-the-badge&logo=github&label=Total%20Stars&color=0a0a0a)](https://github.com/NileGazer00)
-
-</div>
+[![Status](https://img.shields.io/badge/Status-Accepting%20Clients-2ea44f?style=flat-square)](https://github.com/NileGazer00)
+[![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-0366d6?style=flat-square)](https://github.com/NileGazer00)
 
 ---
 
-### ⚡ Available for Freelance Work ⚡
+## 📋 Professional Summary
 
-| | |
-|---|---|
-| 💰 **Rate** | $100-150 / hour |
-| 🎯 **Specialties** | Web Apps • APIs • Automation • MVPs |
-| ⏱️ **Turnaround** | 3-14 days |
-| 📍 **Location** | UTC+1 (Remote Worldwide) |
+Full Stack Engineer specializing in production-grade web applications, API development, and process automation. I deliver clean, documented, and tested code that scales.
 
 ---
 
-## ✦ Services & Pricing
+## 💰 Service Catalog
 
-| Service | 💵 Price | 📅 Delivery |
-|---------|---------|-------------|
-| 🔍 Code Audit & Optimization | $300 | 2-3 days |
-| 🐛 Bug Fix / Feature Addition | $500 | 2-5 days |
-| 🤖 Custom Automation Script | $400 | 2-5 days |
-| 🔗 API Development | $1,500 | 1-2 weeks |
-| 🌐 Full Web Application | $3,000 | 2-4 weeks |
-
----
-
-## ✦ How to Hire Me
-
-| Step | Action |
-|------|--------|
-| **1** | [Book a 30-min Discovery Call](https://calendly.com/ousmanstore00/30min) (Free) |
-| **2** | Discuss requirements and receive quote |
-| **3** | Start development within 48 hours |
+| Service | Price | Delivery |
+|---------|-------|----------|
+| Code Audit & Optimization | $300 | 2-3 days |
+| Bug Fix / Feature Addition | $500 | 2-5 days |
+| Custom Automation Script | $400 | 2-5 days |
+| API Development | $1,500 | 1-2 weeks |
+| Full Web Application | $3,000 | 2-4 weeks |
 
 ---
 
-## ✦ Contact & Payment
+## 🛒 Instant Purchase
 
-| Method | Details |
-|--------|---------|
-| 📧 **Email** | **jusspound@gmail.com** |
-| 💬 **WhatsApp** | **+4915214108652** |
-| 📅 **Schedule** | [calendly.com/ousmanstore00/30min](https://calendly.com/ousmanstore00/30min) |
-| 💖 **Sponsor (Monthly)** | [github.com/sponsors/NileGazer00](https://github.com/sponsors/NileGazer00) |
-
----
-
-## ✦ Technical Stack
-
-| Area | Technologies |
-|------|--------------|
-| **Frontend** | React • JavaScript • TypeScript • HTML/CSS |
-| **Backend** | Node.js • Python • FastAPI • REST APIs |
-| **Database** | PostgreSQL • MySQL • SQLite |
-| **DevOps** | Git • GitHub Actions • Docker |
+| Service | Price | Action |
+|---------|-------|--------|
+| Code Audit | $300 | [Buy Now](https://buymeacoffee.com/nilegazer00) |
+| Bug Fix | $500 | [Buy Now](https://buymeacoffee.com/nilegazer00) |
+| Automation | $400 | [Buy Now](https://buymeacoffee.com/nilegazer00) |
+| API Development | $1,500 | [Request Invoice](mailto:jusspound@gmail.com?subject=API%20Development) |
+| Full Web App | $3,000 | [Request Invoice](mailto:jusspound@gmail.com?subject=Web%20App%20Inquiry) |
 
 ---
 
-## ✦ Quality Guarantee
+## 📬 Contact
 
-| Commitment | Details |
-|------------|---------|
-| ✅ Documented code | Every project includes clear documentation |
-| ✅ Testing | Critical paths have test coverage |
-| ✅ Git best practices | Clean commits and branching strategy |
-| ✅ Post-delivery support | 2 weeks of bug fixes included |
-| ✅ IP ownership | You own 100% of the code |
+| Channel | Response | Contact |
+|---------|----------|---------|
+| Email | < 24 hours | [jusspound@gmail.com](mailto:jusspound@gmail.com) |
+| WhatsApp | < 2 hours | [+4915214108652](https://wa.me/4915214108652) |
+| Schedule | Instant | [Book a Call](https://calendly.com/ousmanstore00/30min) |
+| Quick Payment | Instant | [Buy Me a Coffee](https://buymeacoffee.com/nilegazer00) |
 
 ---
 
-<div align="center">
+## 🔒 Quality Guarantee
 
-### ✦ Ready to build something great? ✦
+- ✅ **Documented code** - Every project includes clear documentation
+- ✅ **Testing** - Critical paths have test coverage
+- ✅ **Support** - 2 weeks free bug fixes after delivery
+- ✅ **Ownership** - You own 100% of the source code
 
-**Email: jusspound@gmail.com** | **WhatsApp: +4915214108652**
+---
 
-*Inquiries answered within 24 hours*
+## 📊 Activity
 
-[![Book a call](https://img.shields.io/badge/📅_Book_a_Call-Click_Here-00A98F?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ousmanstore00/30min)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NileGazer00&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NileGazer00&theme=default&hide_border=true)
 
-</div>
+---
+
+**Ready to build something great?**
+
+[✉️ jusspound@gmail.com](mailto:jusspound@gmail.com) · [📅 Book a Call](https://calendly.com/ousmanstore00/30min) · [☕ Buy Services](https://buymeacoffee.com/nilegazer00)
+
+---
+
+*Inquiries answered within 24 hours. WhatsApp for urgent matters.*
