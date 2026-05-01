@@ -63,7 +63,7 @@
 
 | Method | Where to reach me |
 |--------|-------------------|
-| 📧 **Email** | justspound@gmail.com |
+| 📧 **Email** | jusspound@gmail.com |
 | 💬 **WhatsApp** | +4915214108652 |
 | 📅 **Schedule** | [Book a Call](https://calendly.com/nilegazer00/30min) |
 | 💖 **Sponsor** | [GitHub Sponsors](https://github.com/sponsors/NileGazer00) |
