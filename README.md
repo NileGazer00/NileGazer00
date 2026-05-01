@@ -28,10 +28,11 @@ I build production-ready systems that ship fast and scale.
 
 ## How to Hire Me
 
-| Method | Link |
-|--------|------|
+| Method | Contact |
+|--------|---------|
+| Email | justspound@gmail.com |
+| WhatsApp | +4915214108652 |
 | Book a Call | https://calendly.com/nilegazer00/30min |
-| Email | nilegazer00@proton.me |
 | Sponsor | https://github.com/sponsors/NileGazer00 |
 
 ---
@@ -48,4 +49,4 @@ Python • JavaScript • React • Node.js • Git • REST APIs
 
 ---
 
-### Need something built? Let's talk.
+### Need something built? Contact me directly via email or WhatsApp.
