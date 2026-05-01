@@ -1,20 +1,17 @@
+
 <div align="center">
 
 # ✦ NileGazer00 ✦
 ## Full Stack Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/NileGazer00?style=for-the-badge&logo=github&label=Followers&color=2d333b)](https://github.com/NileGazer00)
-[![GitHub stars](https://img.shields.io/github/stars/NileGazer00?style=for-the-badge&logo=github&label=Total%20Stars&color=2d333b)](https://github.com/NileGazer00)
+[![GitHub followers](https://img.shields.io/github/followers/NileGazer00?style=for-the-badge&logo=github&label=Followers&color=0a0a0a)](https://github.com/NileGazer00)
+[![GitHub stars](https://img.shields.io/github/stars/NileGazer00?style=for-the-badge&logo=github&label=Total%20Stars&color=0a0a0a)](https://github.com/NileGazer00)
 
 </div>
 
 ---
 
-<div align="center">
-
 ### ⚡ Available for Freelance Work ⚡
-
-</div>
 
 | | |
 |---|---|
@@ -37,6 +34,27 @@
 
 ---
 
+## ✦ How to Hire Me
+
+| Step | Action |
+|------|--------|
+| **1** | [Book a 30-min Discovery Call](https://calendly.com/ousmanstore00/30min) (Free) |
+| **2** | Discuss requirements and receive quote |
+| **3** | Start development within 48 hours |
+
+---
+
+## ✦ Contact & Payment
+
+| Method | Details |
+|--------|---------|
+| 📧 **Email** | **jusspound@gmail.com** |
+| 💬 **WhatsApp** | **+4915214108652** |
+| 📅 **Schedule** | [calendly.com/ousmanstore00/30min](https://calendly.com/ousmanstore00/30min) |
+| 💖 **Sponsor (Monthly)** | [github.com/sponsors/NileGazer00](https://github.com/sponsors/NileGazer00) |
+
+---
+
 ## ✦ Technical Stack
 
 | Area | Technologies |
@@ -45,48 +63,6 @@
 | **Backend** | Node.js • Python • FastAPI • REST APIs |
 | **Database** | PostgreSQL • MySQL • SQLite |
 | **DevOps** | Git • GitHub Actions • Docker |
-| **Deployment** | Vercel • Netlify • Heroku |
-
----
-
-│ 1. Discovery Call (30 min / Free) │
-│ ↓ │
-│ 2. Quote & Timeline │
-│ ↓ │
-│ 3. Weekly Development & Updates │
-│ ↓ │
-│ 4. Delivery + 2 Weeks Support │
-
----
-
-## ✦ Contact
-
-| Method | Where to reach me |
-|--------|-------------------|
-| 📧 **Email** | jusspound@gmail.com |
-| 💬 **WhatsApp** | +4915214108652 |
-| 📅 **Schedule** | [Book a Call](https://calendly.com/ousmanstore00/30min) |
-| 💖 **Sponsor** | [GitHub Sponsors](https://github.com/sponsors/NileGazer00) |
-
----
-
-## ✦ GitHub Activity
-
-<div align="center">
-
-| Metric | Current |
-|--------|---------|
-| 📊 Commits | Building... |
-| ⭐ Stars Received | Growing naturally |
-| 👥 Followers | Real community |
-| 🔧 Repositories | Quality over quantity |
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NileGazer00&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NileGazer00&theme=dark&hide_border=true" width="45%" />
-</div>
 
 ---
 
@@ -106,10 +82,10 @@
 
 ### ✦ Ready to build something great? ✦
 
-**Email: jussspound@gmail.com** | **WhatsApp: +4915214108652**
+**Email: jusspound@gmail.com** | **WhatsApp: +4915214108652**
 
 *Inquiries answered within 24 hours*
 
-</div>
+[![Book a call](https://img.shields.io/badge/📅_Book_a_Call-Click_Here-00A98F?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ousmanstore00/30min)
 
-## ✦ How We Work Together
+</div>
