@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/NileGazer00"><img src="https://img.shields.io/badge/GitHub-NileGazer00-181717?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff" alt="GitHub"></a>
-  <a href="https://js-leadmachine.js.org"><img src="https://img.shields.io/badge/Docs-LeadGen.js-FFE70B?style=flat-square&logo=javascript&labelColor=0d1117&color=f7df1e" alt="LeadGen.js Docs"></a>
+  <a href="https://nilegazer00.github.io/NileGazer00-js-leadmachine/"><img src="https://img.shields.io/badge/Docs-LeadGen.js-FFE70B?style=flat-square&logo=javascript&labelColor=0d1117&color=f7df1e" alt="LeadGen.js Docs"></a>
   <img src="https://img.shields.io/badge/Open_to-Collaborations-brightgreen?style=flat-square&labelColor=0d1117" alt="Open to Collaborations">
 </p>
 
