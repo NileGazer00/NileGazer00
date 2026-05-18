@@ -90,3 +90,7 @@ Comprehensive documentation with API reference, code examples, troubleshooting, 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NileGazer00&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
+
+
+### Latest Project
+- **[agentkit.js](https://github.com/NileGazer00/agentkit.js)** — Zero-dependency AI agent framework for JavaScript. ReAct reasoning, tool-use, memory, streaming. 35kB, 0 deps.
